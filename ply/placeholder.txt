@@ -1,1 +1,0 @@
-This file exists so I can commit the ply folder. It will be skipped by the mesh processing python file.

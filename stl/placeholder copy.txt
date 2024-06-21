@@ -1,1 +1,0 @@
-This file exists so I can commit the stl folder. Make sure to get rid of this if you're trying to copy paste all the files from this folder into something else.
